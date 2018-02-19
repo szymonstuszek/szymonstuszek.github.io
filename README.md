@@ -53,7 +53,10 @@ Things to learn:
 [ ] Java Script
 [ ] Basic HTML and CSS
 
+
 Options to consider:
+
+
 |Option| Description|
 |------| -----------|
 |Java programmer|High salaries|

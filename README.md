@@ -39,27 +39,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# My Test WebPage
-** Learning progress 19.02 **
-1. Java Multithreading
-2. Tic tac toe game
- - how to save game results and load them
- - creating user accounts, choosing user accounts
-3. Youtube tutorial on 2d game developement
 
-Things to learn:
-[ ] GIT
-[ ] SQL
-[ ] Java Script
-[ ] Basic HTML and CSS
-
-
-Options to consider:
-
-
-|Option| Description|
-|------| -----------|
-|Java programmer|High salaries|
-|Front-end|easier to learn? side job?|
 
 

@@ -1,17 +1,25 @@
-v# Szymon Stuszek
-
-## Hello there!
+## Szymon Stuszek
 
 I am chemistry graduate, currently working at an international IT-helpdesk. <br/>
-During my study time I had the chance to work abroad and participate in several student exchanges and internships. This included living in Belgium, Austria, UK, Germany and USA. 
-These experiences made me curious and passionate about foreign languages. I have tested a lot of different methods, materials, applications and  I managed to get certificates in German and French. 
-Instead of picking up another langauge I decided that it would be great to build my own language-learning app.
+During my study time I had the chance to work abroad and participate in several student exchanges and internships. This included living in Belgium, Austria, UK, Germany and the USA. <br/>
+My stays abroad made me curious and passionate about foreign languages. I have tested a lot of different methods, materials, applications and  I managed to get certificates in German and French. <br/>
+From the experiences that I have gathered I came up with the idea to build my own language-learning app and I that is why is started to learn web programming.
 
-Building my own tool for language learning. It will be live soon and the link will be available here
+It is currently under developement and can be found under the link: <br/>
 
-You can use the [editor on GitHub](https://github.com/szymonstuszek/szymonstuszek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[langshark.ovh](https://langshark.ovh) <br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Any suggestions, ideas or contributions for the project are very welcome. <br/>
+
+Technologies that I'm using: <br/>
+
+- Java, Spring
+- Javascript, AngularJS
+- HTML, CSS, Bootstrap
+- MySQL
+- Amazon S3
+
+
 
 ### Markdown
 

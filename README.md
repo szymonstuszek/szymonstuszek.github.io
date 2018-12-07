@@ -2,6 +2,8 @@
 
 ## Welcome to GitHub Pages
 
+Hello there!
+
 Building my own tool for language learning. It will be live soon and the link will be available here
 
 You can use the [editor on GitHub](https://github.com/szymonstuszek/szymonstuszek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

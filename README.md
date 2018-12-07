@@ -20,4 +20,6 @@ Any suggestions, ideas or contributions for the project are very welcome. <br/>
 - Amazon S3
 
 <br/>
-![Image](/https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
+<p align="center">
+  ![Image](/https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
+</p>

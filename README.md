@@ -1,4 +1,4 @@
-## Szymon Stuszek
+/## Szymon Stuszek
 
 I am chemistry graduate, currently working at an international IT-helpdesk. <br/>
 During my study time I had the chance to work abroad and participate in several student exchanges and internships. This included living in Belgium, Austria, UK, Germany and the USA. <br/>
@@ -21,5 +21,6 @@ Any suggestions, ideas or contributions for the project are very welcome. <br/>
 
 <br/>
 <p align="center">
-  ![Image](/https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
+  ![Image](//https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
+  ![Image](https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
 </p>

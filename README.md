@@ -11,7 +11,7 @@ The application is currently under development and can be found under the link: 
 
 Any suggestions, ideas or contributions for the project are very welcome. <br/>  <br/>
 
-<h2>Technologies </h2><br/>
+## Technologies <br/>
 
 - Java, Spring
 - Javascript, AngularJS

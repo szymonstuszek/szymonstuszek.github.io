@@ -23,3 +23,12 @@ Any suggestions, ideas or contributions for the project are very welcome. <br/> 
 <p align="center">
   ![Image](/https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
 </p>
+<p align="center">
+  ![Image](https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
+</p>
+<p align="center">
+  ![Image](Table5.png)
+</p>
+<p align="center">
+  ![Image](/Table5.png)
+</p>

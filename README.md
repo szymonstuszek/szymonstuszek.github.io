@@ -1,8 +1,8 @@
-# Szymon Stuszek
+v# Szymon Stuszek
 
 ## Hello there!
 
-I am chemistry graduate, currently working at an international IT-helpdesk. 
+I am chemistry graduate, currently working at an international IT-helpdesk. <br/>
 During my study time I had the chance to work abroad and participate in several student exchanges and internships. This included living in Belgium, Austria, UK, Germany and USA. 
 These experiences made me curious and passionate about foreign languages. I have tested a lot of different methods, materials, applications and  I managed to get certificates in German and French. 
 Instead of picking up another langauge I decided that it would be great to build my own language-learning app.

@@ -20,19 +20,6 @@ Any suggestions, ideas or contributions for the project are very welcome. <br/> 
 - Amazon S3
 
 <br/>
-<img src="Table5.png"/>
-<img src="/Table5.png"/>
-<img src="https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png" />
-
 <p align="center">
-  ![Picture1](/https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
-</p>
-<p align="center">
-  ![Picture12](https://github.com/szymonstuszek/szymonstuszek.github.io/blob/master/Table5.png)
-</p>
-<p align="center">
-  ![Picture123](Table5.png)
-</p>
-<p align="center">
-  ![Picture1234](/Table5.png)
-</p>
+  <img src="Table5.png"/>
+</p>  

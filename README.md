@@ -1,8 +1,11 @@
 # Szymon Stuszek
 
-## Welcome to GitHub Pages
+## Hello there!
 
-Hello there!
+I am chemistry graduate, currently working at an international IT-helpdesk. 
+During my study time I had the chance to work abroad and participate in several student exchanges and internships. This included living in Belgium, Austria, UK, Germany and USA. 
+These experiences made me curious and passionate about foreign languages. I have tested a lot of different methods, materials, applications and  I managed to get certificates in German and French. 
+Instead of picking up another langauge I decided that it would be great to build my own language-learning app.
 
 Building my own tool for language learning. It will be live soon and the link will be available here
 

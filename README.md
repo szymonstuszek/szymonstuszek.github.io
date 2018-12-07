@@ -21,5 +21,5 @@ Any suggestions, ideas or contributions for the project are very welcome. <br/> 
 
 <br/>
 <p align="center">
-  <img src="Table5.png" width="200" />
+  <img src="Table5.png" width="400" />
 </p>  
